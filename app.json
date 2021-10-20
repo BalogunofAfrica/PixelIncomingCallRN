@@ -1,0 +1,12 @@
+{
+  "name": "PixelIncomingCallRN",
+  "displayName": "PixelIncomingCallRN",
+  "expo": {
+    "name": "PixelIncomingCallRN",
+    "slug": "PixelIncomingCallRN",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
